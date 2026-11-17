@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <main className="mx-auto max-w-5xl px-5 py-12">
       <p className="text-caption font-semibold text-primary">
-        ТЕХНИЧЕСКАЯ ГРАМОТНОСТЬ · СТАРТОВЫЙ ПРОЕКТ
+        ТЕХНИЧЕСКАЯ ГРАМОТНОСТЬ · СТАРТОВЫЙ КУРС
       </p>
-      <h1 className="mt-5 text-display font-semibold">Мой цифровой продукт</h1>
+      <h1 className="mt-5 text-display font-semibold">JavaScript для чайников 🫖</h1>
       <p className="mt-5 max-w-2xl text-body text-secondary">
         Проект запущен. Здесь появится ваш продукт: начните с идеи, прочитайте
         структуру и измените заголовок руками.
