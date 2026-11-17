@@ -32,7 +32,7 @@ export default function Home() {
         </Button>
       </div>
       <p className="mt-8 text-caption text-secondary">
-        Для первого запуска база и ключ модели не нужны. PRODUCT.md, CLAUDE.md и
+        Для первого запуска база и ключ модели не нужны. PRODUCT.md, AGENTS.md и
         DECISIONS.md заполняются на занятиях.
       </p>
     </main>

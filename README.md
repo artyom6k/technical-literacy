@@ -3,7 +3,7 @@
 Это содержимое GitHub template для индивидуального проекта по силлабусу. Работает без базы и ключей. Здесь намеренно нет готовой фичи, авторизации и LLM: их вы создаёте на занятиях.
 
 ## Первые пять минут
-Node 24 LTS и git. Нажмите Use this template → создайте свой репозиторий. Склонируйте его, перейдите в папку:
+Node 26 LTS и git. Нажмите Use this template → создайте свой репозиторий. Склонируйте его, перейдите в папку:
 
 ```text
 npm ci
@@ -28,7 +28,7 @@ CI запускает эти же проверки на push/PR. E2E подни�
 - components/course-card.tsx — компонент с props для МЗ-2, не button.tsx.
 - components/ui/button.tsx — локальная адаптация shadcn/ui на Radix с asChild.
 - app/globals.css — токены Tailwind 4 через @theme.
-- PRODUCT.md, CLAUDE.md, DESIGN.md, DECISIONS.md — заполнить под свой продукт.
+- PRODUCT.md, AGENTS.md, DESIGN.md, DECISIONS.md — заполнить под свой продукт.
 - tests/unit и tests/e2e, .github/workflows/ci.yml — работающие примеры проверок.
 - docs и supabase/migrations — заготовки следующей работы.
 
